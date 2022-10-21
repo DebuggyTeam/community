@@ -41,20 +41,20 @@
   template: "{EMOJI} **{NAME}**: {DESCRIPTION}\n"
   
   roles:
-  1028880355484242010:
-    description: "Get notified when announcements are made in <#912411091030667266>."
-    emoji: "📢"
-  957860055116558389:
-    description: "Get notified when an update pertaining to Debuggy projects is posted to <#942451968180375642>."
-    emoji: "📢"
-  965761450230571048:
-    description: "Get notified when a new sneak peek is posted in <#967613841926152202>."
-    emoji: "👀"
-  1028880750495416361:
-    description: >
-      Get this if you're interested in translating a Debuggy project to another language. 
-      Then go make a forum post for your chosen language in <#1028881563015979028>.
-    emoji: "💬"
+    1028880355484242010:
+      description: "Get notified when announcements are made in <#912411091030667266>."
+      emoji: "📢"
+    957860055116558389:
+      description: "Get notified when an update pertaining to Debuggy projects is posted to <#942451968180375642>."
+      emoji: "📢"
+    965761450230571048:
+      description: "Get notified when a new sneak peek is posted in <#967613841926152202>."
+      emoji: "👀"
+    1028880750495416361:
+      description: >
+        Get this if you're interested in translating a Debuggy project to another language. 
+        Then go make a forum post for your chosen language in <#1028881563015979028>.
+      emoji: "💬"
     
 - type: threads
   mode: active
