@@ -1,7 +1,7 @@
 - type: embed
   embeds:
     - title: Welcome to Debuggy Community!
-      color: 0xa05fff
+      color: 0xA05FFF
       description: >
         We are a group of people who like making Minecraft mods. You can find info about our projects below:
         \n<#1026251656029011978>: expansive biome mod.
@@ -40,7 +40,7 @@
 - type: roles
   id: community-roles
   title: "Role Selector"
-  color: 0xa05fff
+  color: 0xA05FFF
   description: "Click the button below to assign or remove any of the following roles."
   template: "{EMOJI} **{NAME}**: {DESCRIPTION}\n"
   
@@ -66,7 +66,7 @@
 - type: threads
   mode: active
   template: "**»** {EMOJI}[{NAME}]({URL}) | {ACTIVE_TIME}"
-  color: 0xa05fff
+  color: 0xA05FFF
   description: This is a list of the ten most-recently-active threads, sorted by the time they were last active.
   archive_status_in_name: false
   archived_emoji: "🔇"
@@ -74,7 +74,7 @@
 - type: threads
   mode: newest
   template: "**»** {EMOJI}[{NAME}]({URL}) | {CREATED_TIME}"
-  color: 0xa05fff
+  color: 0xA05FFF
   description: This is a list of the ten most-recently-created threads, sorted by their creation date.
   archive_status_in_name: false
   archived_emoji: "🔇"
