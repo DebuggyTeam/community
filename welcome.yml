@@ -1,0 +1,69 @@
+- type: embed
+  embeds:
+    - title: Welcome to Debuggy Community!
+    description: >
+      We are a group of people who like making Minecraft mods. You can find info about our projects below:
+      <#1026251656029011978>: expansive biome mod.
+      <#1026272355951058974>: A mod that adds in a sawmill for cutting any wood-based blocks.
+- type: rules
+  rules:
+    Follow the Debuggy Code of Conduct: >
+      https://debuggyteam.github.io/code-of-conduct/
+    Follow the ToS and Community Guidelines: >
+      They are linked here: [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms
+    Attempt to speak English: >
+      We cannot moderate what people say in other languages. If English is not your native language, 
+      you can use various translation tools to speak in English. Making fun of someone's poor English is not allowed.
+    
+    Spamming or advertising is prohibited: >
+      This includes repeated messages, pings, media, and links. Advertisements for things like Discord servers and 
+      social media are not allowed. DM adverts are also prohibited.
+    
+    Use appropriate user profiles: >
+      User profiles are not to feature NSFW content of any kind. NSFW content generally includes text, images, or links featuring nudity, sex, hard violence, 
+      or other graphically disturbing content.
+    
+    Use channels appropriately: >
+      Follow a channel's given topic and do not derail an ongoing conversation. If a channel becomes clogged, use threads.
+      
+- type: embed
+  embed:
+    description: >
+      This ruleset is a derivative of the Quilt Community rules and guidelines: 
+      [Quilt Rules](https://quiltmc.org/en/community/rules/), [Quilt Code of Conduct](https://quiltmc.org/en/community/code-of-conduct/)
+    
+- type: roles
+  id: community-roles
+  title: "Role Selector"
+  description: "Click the button below to assign or remove any of the following roles."
+  template: "{EMOJI} **{NAME}**: {DESCRIPTION}\n"
+  
+  roles:
+  1028880355484242010:
+    description: "Get notified when announcements are made in <#912411091030667266>."
+    emoji: "📢"
+  957860055116558389:
+    description: "Get notified when an update pertaining to Debuggy projects is posted to <#942451968180375642>."
+    emoji: "📢"
+  965761450230571048:
+    description: "Get notified when a new sneak peek is posted in <#967613841926152202>."
+    emoji: "👀"
+  1028880750495416361:
+    description: >
+      Get this if you're interested in translating a Debuggy project to another language. 
+      Then go make a forum post for your chosen language in <#1028881563015979028>.
+    emoji: "💬"
+    
+- type: threads
+  mode: active
+  template: "**»** {EMOJI}[{NAME}]({URL}) | {ACTIVE_TIME}"
+  description: This is a list of the ten most-recently-active threads, sorted by the time they were last active.
+  archive_status_in_name: false
+  archived_emoji: "🔇"
+
+- type: threads
+  mode: newest
+  template: "**»** {EMOJI}[{NAME}]({URL}) | {CREATED_TIME}"
+  description: This is a list of the ten most-recently-created threads, sorted by their creation date.
+  archive_status_in_name: false
+  archived_emoji: "🔇"
