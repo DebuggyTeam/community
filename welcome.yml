@@ -27,10 +27,11 @@
       Follow a channel's given topic and do not derail an ongoing conversation. If a channel becomes clogged, use threads.
       
 - type: embed
-  embed:
-    description: >
-      This ruleset is a derivative of the Quilt Community rules and guidelines: 
-      [Quilt Rules](https://quiltmc.org/en/community/rules/), [Quilt Code of Conduct](https://quiltmc.org/en/community/code-of-conduct/)
+  embeds:
+    - title: ""
+      description: >
+        This ruleset is a derivative of the Quilt Community rules and guidelines: 
+        [Quilt Rules](https://quiltmc.org/en/community/rules/), [Quilt Code of Conduct](https://quiltmc.org/en/community/code-of-conduct/)
     
 - type: roles
   id: community-roles
