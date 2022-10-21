@@ -33,6 +33,7 @@
 - type: embed
   embeds:
     - title: ""
+      color: 0xA05FFF
       description: >
         This ruleset is a derivative of the Quilt Community rules and guidelines: 
         [Quilt Rules](https://quiltmc.org/en/community/rules/), [Quilt Code of Conduct](https://quiltmc.org/en/community/code-of-conduct/)
