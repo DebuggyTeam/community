@@ -10,8 +10,10 @@
   rules:
     Follow the Debuggy Code of Conduct: >
       Everyone is expected to read and abide by the [Debuggy Code of Conduct](https://debuggyteam.github.io/code-of-conduct/)
+      
     Follow the ToS and Community Guidelines: >
       As a Discord-based community, everyone is required to follow the Discord [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms)
+      
     Attempt to speak English: >
       We cannot moderate what people say in other languages. If English is not your native language, 
       you can use various translation tools to speak in English. Making fun of someone's poor English is not allowed.
@@ -44,12 +46,15 @@
     "1028880355484242010":
       description: "Get notified when announcements are made in <#912411091030667266>."
       emoji: "📢"
+      
     "957860055116558389":
       description: "Get notified when an update pertaining to Debuggy projects is posted to <#942451968180375642>."
       emoji: "📢"
+      
     "965761450230571048":
       description: "Get notified when a new sneak peek is posted in <#967613841926152202>."
       emoji: "👀"
+      
     "1028880750495416361":
       description: >
         Get this if you're interested in translating a Debuggy project to another language. 
