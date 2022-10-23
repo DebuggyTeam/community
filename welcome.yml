@@ -73,22 +73,22 @@
   
   roles:
     "993404661635764244":
-      description: "This is **her** Brick Block; **she** is currently using it to build."
+      description: "This is __her__ Brick Block; __she__ is currently using it to build."
       
     "993404660729778287":
-      description: "**He** is currently using **his** Table Saw."
+      description: "__He__** is currently using __his__ Table Saw."
       
     "993404662621409320":
-      description: "**They** are currently placing Glowstone to light up **their** build."
+      description: "__They__ are currently placing Glowstone to light up __their__ build."
       
     "993404663477063700":
-      description: "**It** dug 5,000 Stone blocks to make **its** underground base."
+      description: "__It__ dug 5,000 Stone blocks to make __its__ underground base."
       
     "993404664437551207":
-      description: "**Lily** used **Lily's** Anvil to apply **Lily's** enchantments to **Lily's** armor set."
+      description: "__Lily__ used __Lily's__ Anvil to apply __Lily's__ enchantments to __Lily's__ armor set."
       
     "993404665406443540":
-      description: "**Fae** used **faer** sword to kill a bunch of skeletons today."
+      description: "__Fae__ used __faer__ sword to kill a bunch of skeletons today."
     
     "993404666295631882":
       description: "A user asks Lily what Lily's pronouns are; Lily responds that Lily's pronouns are she/her."
