@@ -63,6 +63,35 @@
         Get this if you're interested in translating a Debuggy project to another language. 
         Then go make a forum post for your chosen language in <#1028881563015979028>.
       emoji: "💬"
+
+- type: roles
+  id: pronoun-roles
+  title: "Role Selector"
+  color: 0xA05FFF
+  description: "Click the button below to assign or remove any of the following roles."
+  template: "**{NAME}**: {DESCRIPTION}\n"
+  
+  roles:
+    "993404661635764244":
+      description: ""
+      
+    "993404660729778287":
+      description: ""
+      
+    "993404662621409320":
+      description: ""
+      
+    "993404663477063700":
+      description: ""
+      
+    "993404664437551207":
+      description: ""
+      
+    "993404665406443540":
+      description: ""
+    
+    "993404666295631882":
+      description: ""
       
 - type: links
   title: Useful Links
@@ -73,7 +102,7 @@
     
 - type: threads
   mode: active
-  template: "**»** {EMOJI}[{NAME}]({URL}) | {ACTIVE_TIME}"
+  template: "**»** {EMOJI}[{NAME}]({URL}) in {PARENT} | {ACTIVE_TIME}"
   color: 0xA05FFF
   description: This is a list of the ten most-recently-active threads, sorted by the time they were last active.
   archive_status_in_name: false
@@ -81,7 +110,7 @@
 
 - type: threads
   mode: newest
-  template: "**»** {EMOJI}[{NAME}]({URL}) | {CREATED_TIME}"
+  template: "**»** {EMOJI}[{NAME}]({URL}) in {PARENT} | {CREATED_TIME}"
   color: 0xA05FFF
   description: This is a list of the ten most-recently-created threads, sorted by their creation date.
   archive_status_in_name: false
