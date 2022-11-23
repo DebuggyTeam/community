@@ -2,12 +2,12 @@
   embeds:
     - title: Welcome to Debuggy Community!
       color: 0xA05FFF
-      description: >
+      description: >-
         We are a group of people who like making Minecraft mods. You can find info about our projects below:
-        \n\n<#1026251656029011978>: expansive biome mod.
-        \n\n<#1026272355951058974>: A mod that adds in a sawmill for cutting any wood-based blocks.
+        <#1026251656029011978>: expansive biome mod.
+        <#1026272355951058974>: A mod that adds in a sawmill for cutting any wood-based blocks.
         
-        \n\nNow for some backstory on how Debuggy Community formed: In mid June of 2022, woodiertexas was wanting to put together a modding team and
+        Now for some backstory on how Debuggy Community formed: In mid June of 2022, woodiertexas was wanting to put together a modding team and
         as a result, he needed a name. Since Architecture Extensions adds an easter egg block titled "Oddly Colored Block" with a blockID of
         `debuggy_block`, woodie chose to call the modding team "Debuggy Team".
         
