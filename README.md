@@ -1,2 +1,2 @@
 # About
-The repo for Debuggy Communuty related stuff.
+The repo for Debuggy Community related stuff.
