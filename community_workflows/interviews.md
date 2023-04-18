@@ -1,4 +1,4 @@
-PS: rough draft, will need refining
+PS: rough draft, will need refining, also we got lots of debuggy blocks
 
 # The Interview Process
 Interviewing someone who wants to join either the Debuggy Dev team or the Debuggy Moderation team.
