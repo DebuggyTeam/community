@@ -14,15 +14,15 @@
         
         
         The "Oddly Colored Block" added by Arch-Ex uses the "[debug1](https://minecraft.fandom.com/wiki/History_of_textures/Unused_textures#debug.png_and_debug2.png)" texture found in Minecraft's game files.
-        
+
 - type: rules
   rules:
     Follow the Debuggy Code of Conduct: >
       Everyone is expected to read and abide by the [Debuggy Code of Conduct](https://debuggyteam.github.io/code-of-conduct/)
-      
+    
     Follow the ToS and Community Guidelines: >
       As a Discord-based community, everyone is required to follow the Discord [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms)
-      
+    
     Attempt to speak English: >
       We cannot moderate what people say in other languages. If English is not your native language, 
       you can use various translation tools to speak in English. Making fun of someone's poor English is not allowed.
@@ -37,7 +37,7 @@
 
     Use channels appropriately: >
       Follow a channel's given topic and do not derail an ongoing conversation. If a channel becomes clogged, use threads.
-      
+
 - type: embed
   embeds:
     - title: ""
@@ -45,69 +45,21 @@
       description: >
         This ruleset is a derivative of the [Quilt Community rules](https://quiltmc.org/en/community/rules/) 
         and the [Quilt Code of Conduct](https://quiltmc.org/en/community/code-of-conduct/)
-    
-- type: roles
-  id: community-roles
-  title: "Role Selector"
-  color: 0xA05FFF
-  description: "Click the button below to assign or remove any of the following roles."
-  template: "{EMOJI} **{NAME}**: {DESCRIPTION}\n"
-  
-  roles:
-    "1028880355484242010":
-      description: "Get notified when announcements are made in <#912411091030667266>."
-      emoji: "📢"
-      
-    "957860055116558389":
-      description: "Get notified when an update pertaining to Debuggy projects is posted to <#942451968180375642>."
-      emoji: "📢"
-      
-    "965761450230571048":
-      description: "Get notified when a new sneak peek is posted in <#967613841926152202>."
-      emoji: "👀"
-      
-    "1028880750495416361":
-      description: >
-        Get this if you're interested in translating a Debuggy project to another language. 
-        Then go make a forum post for your chosen language in <#1028881563015979028>.
-      emoji: "💬"
 
-- type: roles
-  id: pronoun-roles
-  title: "Role Selector"
-  color: 0xA05FFF
-  description: "Click the button below to assign or remove any of the following roles."
-  template: "**{NAME}**: {DESCRIPTION}\n"
-  
-  roles:
-    "993404661635764244":
-      description: "This is __her__ Brick Block; __she__ is currently using it to build."
-      
-    "993404660729778287":
-      description: "__He__ is currently using __his__ Table Saw."
-      
-    "993404662621409320":
-      description: "__They__ are currently placing Glowstone to light up __their__ build."
-      
-    "993404663477063700":
-      description: "__It__ dug 5,000 Stone blocks to make __its__ underground base."
-      
-    "993404664437551207":
-      description: "__Lily__ used __Lily's__ Anvil to apply __Lily's__ enchantments to __Lily's__ armor set."
-      
-    "993404665406443540":
-      description: "<insert pronouns> broke the cobblestone generator."
-    
-    "993404666295631882":
-      description: "A user asks Lily what Lily's pronouns are; Lily responds that Lily's pronouns are she/her."
-      
+- type: embed
+  embeds:
+    - title: ""
+      color: 0xA05FFF
+      description: >
+        To customize what channels and roles you get, go to <id:customize>.
+
 - type: links
   title: Useful Links
   color: 0xA05FFF
   links:
     Debuggy on Discord: https://discord.gg/bWN57F5CCA
     Debuggy on GitHub: https://github.com/DebuggyTeam
-    
+
 - type: threads
   mode: active
   template: "**»** {EMOJI}[{NAME}]({URL}) in {PARENT} | {ACTIVE_TIME}"
