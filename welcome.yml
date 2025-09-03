@@ -48,10 +48,8 @@
 
 - type: embed
   embeds:
-    - title: ""
+    - title: "To customize what channels and roles you get, go to <id:customize>."
       color: 0xA05FFF
-      description: >
-        To customize what channels and roles you get, go to <id:customize>.
 
 - type: links
   title: Useful Links
