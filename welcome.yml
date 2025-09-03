@@ -48,7 +48,7 @@
 
 - type: embed
   embeds:
-    - title: "To customize what channels and roles you get, go to <id:customize>."
+    - title: "**To customize what channels and roles you get, go to <id:customize>.**"
       color: 0xA05FFF
 
 - type: links
